@@ -1,0 +1,146 @@
+<!doctype html>
+<html>
+<head>
+    <title>GitHub</title>
+
+    <link rel="shortcut icon" type="image/x-icon" href="blacklogo.png"/>
+    
+    <meta charset="utf-8" />
+    <meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+<link rel ="stylesheet" type="text/css" href="source.css">
+
+</head>
+
+<body>
+    
+<div id="navbar">
+    
+    <div class="whitelogo">
+     <a href="https://github.com/">
+        <img src="whitelogo.png"width="31px" height="31px"  alt="logo">
+        </a>
+    </div>
+    
+    
+    <input type="search" placeholder="Search or jump to..." class="searchbox" >
+    
+    
+   <div class="tap" >
+    <a href="https://github.com/pulls">
+      Pulls
+       </a>
+    </div>
+    
+    <div class="tap" >
+    <a href="https://github.com/issues">
+      issues
+       </a>
+    </div>
+      <div class="tap" >
+    <a href="https://github.com/marketplace">
+      marketplace
+       </a>
+    </div>
+      <div class="tap" >
+    <a href="https://github.com/explore">
+      Explore
+       </a>
+    </div>
+    
+    
+          <div class="right" >
+    <a href="https://github.com/explore">
+     
+        <img src="login.png" width="16px">
+        <img src="dropdown.png" width="10px">
+       </a>
+    </div>
+    
+          <div class="right" >
+    <a href="https://github.com/explore">
+       <img src="plus.png" width="13px">
+         <img src="dropdown.png" width="10px">
+        
+       </a>
+    </div>
+    
+          <div class="right" >
+    <a href="https://github.com/notifications">
+     <img src="bell.png" width="16px">
+       </a>
+    </div>
+    
+</div>
+    
+
+<div id="sidebar">
+    
+    <div class="content1">
+        
+    <p><b>Create your First project</b></p>
+        
+        <h4>Ready to start building? Create a repository for a new idea or bring over an existing repository to keep contributing to it.</h4>
+        
+        
+        <button  class="test"name="Test" type="button" value="HTML"><span class="textb">Create repository</span></button>
+        
+        <a href="https://github.com/issues">
+      <span class="Import">Import repository</span>
+       </a>
+        
+        
+        
+    </div>
+    
+    <hr class="hr1">
+    
+    
+      <div class="content2">
+        
+    <p><b>Working with a team?</b></p>
+        
+        <h4>GitHub is built for collaboration. Set up an organization to improve the way your team works together, and get access to more features.</h4>
+        
+        
+        <button  class="test2"name="Test" type="submit" value="HTML"><span class="Creat">Create an organization</span></button>
+        
+       
+        
+   
+        
+    </div>
+    
+
+    
+    
+    
+</div>
+    
+    
+        <div id="midsec">
+    <div class="cont">
+        <h1>Discover interesting projects and people to populate your personal news feed.</h1>
+        <p class="text">Your news feed helps you keep up with recent activity on repositories you watch and people you follow.</p>
+    </div>
+    <div class="but">
+       
+         <button  class="test3"name="Test" type="submit" value="HTML"><span class="Creat">Explore GitHub</span></button>
+        
+    </div>
+        
+        
+    </div>
+    
+    
+     <div id="midsec2" class="cont">
+         <p> ProTip! The feed shows you events from people you <span class="f"> follow </span> and repositories you<span class="f"> watch </span>.</p>
+         <p> <span class="te">Subscribe to your news feed</span></p>
+        
+    </div>
+    
+    
+    
+</body>
+</html>
